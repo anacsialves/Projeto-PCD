@@ -1,8 +1,7 @@
  # Testando se uma fórmula bem formulada é uma tautologia
 
-Explicar lógica proposicional
-Explicar o que é uma tautologia
-Explicar brevemente como o código funciona (o que é a entrada e a saida..)
+
+o que falta : Explicar brevemente como o código funciona (o que é a entrada e a saida..)
 
 O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional.
 
