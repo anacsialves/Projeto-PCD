@@ -11,6 +11,7 @@ O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão l
 Atenção, lembre-se inserir uma FBF que se enquadre dentro das abrangidas pelo projeto, visto que o projeto não abrange todas as FBFs. Rode as funções
 
 As FBFs abrangidas nesse projeto são: 
+FBFs com duas proposições, ...
 
 A seguir, encontra-se um breve resumo sobre lógica proposicional e tautologia.
 
