@@ -4,9 +4,15 @@
 #### Professores: Daniel Cassar, James Almeida e Leandro Lemos
 #### Integrantes: Aline Silva dos Santos, Ana Carolina Sayumi, Caio Cogo Beriam e Mariana Jann Luna
 
-o que falta : Explicar brevemente como o código funciona (o que é a entrada e a saida.., como o usuário deve usar), contribuição de cada integrante
+o que falta : contribuição de cada integrante
 
-O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional. Para utilizar o projeto, o usuário deve (...)
+O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional. Para utilizar o projeto, o usuário deve Abrir o jupyter notebook presente neste github, ler atentamente a tabela que indica os símbolos utilizados (Tabela de "tradução") e rodar as células contendo as funções para cada conectivo (indicadas claramente no notebook). Em seguida, inserir a FBF desejada no Input da seção "Recebendo a frase", e rodar a "Função principal". Como retorno, o usuário receberá por escrito se a FBF é ou não uma tautologia.
+
+Atenção, lembre-se inserir uma FBF que se enquadre dentro das abrangidas pelo projeto, visto que o projeto não abrange todas as FBFs. Rode as funções
+
+As FBFs abrangidas nesse projeto são: 
+
+A seguir, se encontra um breve resumo sobre lógica proposicional e tautologia.
 
 ### O que é lógica proposicional?
 A lógica proposicional é um tipo de lógica formal, que se baseia na relação de proposições (que podem ou ser falsas ou ser verdadeiras), através de símbolos e regras para analisar a estrutura e a validez dos argumentos, independentemente do seu conteúdo. Os conectivos válidos dentro da lógica proposicional são: 
