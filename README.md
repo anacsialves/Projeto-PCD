@@ -1,9 +1,12 @@
  # Testando se uma fórmula bem formulada é uma tautologia
 
+### Ilum - escola de ciência - trabalho final de Práticas em Ciência de Dados
+#### Professores: Daniel Cassar, James Almeida e Leandro Lemos
+#### Integrantes: Aline Silva dos Santos, Ana Carolina Sayumi, Caio Cogo Beriam e Mariana Jann Luna
 
-o que falta : Explicar brevemente como o código funciona (o que é a entrada e a saida..)
+o que falta : Explicar brevemente como o código funciona (o que é a entrada e a saida.., como o usuário deve usar), contribuição de cada integrante
 
-O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional.
+O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional. Para utilizar o projeto, o usuário deve (...)
 
 ### O que é lógica proposicional?
 A lógica proposicional é um tipo de lógica formal, que se baseia na relação de proposições (que podem ou ser falsas ou ser verdadeiras), através de símbolos e regras para analisar a estrutura e a validez dos argumentos, independentemente do seu conteúdo. Os conectivos válidos dentro da lógica proposicional são: 
