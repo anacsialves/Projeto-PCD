@@ -1,12 +1,15 @@
- # Testando se uma fórmula bem formulada é uma tautologia
+ # Testando tautologias
 
 ### Ilum - escola de ciência - trabalho final de Práticas em Ciência de Dados
 #### Professores: Daniel Cassar, James Almeida e Leandro Lemos
 #### Integrantes: Aline Silva dos Santos, Ana Carolina Sayumi, Caio Cogo Beriam e Mariana Jann Luna
 
-O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional. Para utilizar o projeto, o usuário deve abrir o Jupyter Notebook presente neste github, ler atentamente a tabela que indica os símbolos utilizados (Tabela de "tradução") e rodar as células contendo as funções para cada conectivo (indicadas claramente no notebook). Em seguida, inserir a FBF desejada no Input da seção "Recebendo a frase", e rodar a "Função principal". Como retorno, o usuário receberá por escrito se a FBF é ou não uma tautologia.
+O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional. 
 
-Atenção, lembre-se inserir uma FBF que se enquadre dentro das abrangidas pelo projeto. As FBFs abrangidas nesse projeto são: 
+Para utilizar o projeto, o usuário deve abrir o Jupyter Notebook presente neste github, ler atentamente a intodução e adicionar uma frase de acordo com as instruções na seção "Recebendo a frase". Em seguida, o usuário deve atribuir os significados das proposições na seção "Recebendo frases de linguagem natural para A e B". Ademais, basta rodar as células restantes na seção "Função principal" que será retornado por escrito ao usuário se a frase que ele escolheu é, ou não, uma tautologia. Além disso, o usuário também recebe uma tabela verdade gerada no processo, para ilustrar a possível tautologia.
+
+
+Atenção, as FBFs abrangidas nesse projeto são: 
 FBFs com duas proposições, sem repetir conectivos e sem parêntenses
 
 A seguir, encontra-se um breve resumo sobre lógica proposicional e tautologia.
@@ -68,11 +71,11 @@ Uma tautologia ocorre quando uma FBF resulta somente em verdades. As tautologias
 | F | F | F     | V           |
 
 
-### Contribuições de cada integrante
- Aline Silva dos Santos: 
- Ana Carolina Sayumi: 
- Caio Cogo Beriam: 
- Mariana Jann Luna: 
+### Contribuições de cada integrante 
+ * Aline Silva dos Santos: 
+ * Ana Carolina Sayumi: 
+ * Caio Cogo Beriam: 
+ * Mariana Jann Luna: 
 
 ### Referências
 
