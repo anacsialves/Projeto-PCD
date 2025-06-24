@@ -73,9 +73,9 @@ Uma tautologia ocorre quando uma FBF resulta somente em verdades. As tautologias
 ### Contribuições de cada integrante 
  * Aline Silva dos Santos: Programação das funções dos conectivos, auxilio na programação da função principal, ideia de criar um ordenador, formatação do notebook (Instruções ao usuário, DocStrings), Readme.
    
- * Ana Carolina Sayumi: Programação da função ordenador, adaptação da programação para mais de duas proposições, programação da tabela verdade e combinação final das funções
+ * Ana Carolina Sayumi: Programação da função ordenador, adaptação da programação para mais de duas proposições, programação da tabela verdade e integração final das funções.
    
- * Caio Cogo Beriam: Lógica de tradução e substituição, programação das funções de conectivos, lógica de processamento de linguagem, interface gráfica (não foi aplicada)
+ * Caio Cogo Beriam: Lógica de tradução e substituição, programação das funções de conectivos, lógica de processamento de linguagem, interface gráfica (não foi aplicada).
    
  * Mariana Jann Luna: Ideia inicial do projeto (tautologia), programação das funções dos conectivos, programação de conectar as proposições com as funções a partir do index, identificação de erros no código, Readme e git.
 
