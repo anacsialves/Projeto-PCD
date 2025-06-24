@@ -6,11 +6,10 @@
 
 O projeto formulado visa testar se uma FBF (fórmula bem formulada, expressão lógica válida) é uma tautologia, em um contexto de lógica proposicional. 
 
-Para utilizar o projeto, o usuário deve abrir o Jupyter Notebook presente neste github, ler atentamente a intodução e adicionar uma frase de acordo com as instruções na seção "Recebendo a frase". Em seguida, o usuário deve atribuir os significados das proposições na seção "Recebendo frases de linguagem natural para A e B". Ademais, basta rodar as células restantes na seção "Função principal" que será retornado por escrito ao usuário se a frase que ele escolheu é, ou não, uma tautologia. Além disso, o usuário também recebe uma tabela verdade gerada no processo, para ilustrar a possível tautologia.
+Para utilizar o projeto, o usuário deve abrir o Jupyter Notebook presente neste github, ler atentamente a intodução e adicionar uma frase de acordo com as instruções na seção "Recebendo a frase". Em seguida, o usuário deve atribuir os significados das proposições na seção "Recebendo frases de linguagem natural para cada proposição". Ademais, basta rodar as células restantes na seção "Função principal" que será retornado por escrito ao usuário se a frase que ele escolheu é, ou não, uma tautologia. Além disso, o usuário também recebe uma tabela verdade gerada no processo, para ilustrar a possível tautologia.
 
 
-Atenção, as FBFs abrangidas nesse projeto são: 
-FBFs com duas proposições, sem repetir conectivos e sem parêntenses
+Atenção, o projeto não inclui FBFs com parêntenses.
 
 A seguir, encontra-se um breve resumo sobre lógica proposicional e tautologia.
 
@@ -72,10 +71,13 @@ Uma tautologia ocorre quando uma FBF resulta somente em verdades. As tautologias
 
 
 ### Contribuições de cada integrante 
- * Aline Silva dos Santos: 
- * Ana Carolina Sayumi: 
- * Caio Cogo Beriam: 
- * Mariana Jann Luna: 
+ * Aline Silva dos Santos: Programação das funções dos conectivos, auxilio na programação da função principal, ideia de criar um ordenador, formatação do notebook (Instruções ao usuário, DocStrings), Readme.
+   
+ * Ana Carolina Sayumi:
+   
+ * Caio Cogo Beriam:
+   
+ * Mariana Jann Luna: Ideia inicial do projeto (tautologia), programação das funções dos conectivos, programação de conectar as proposições com as funções a partir do index, identificação de erros no código, Readme e git.
 
 ### Referências
 
