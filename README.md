@@ -61,7 +61,7 @@ Bicondicional - retorna Verdadeiro se as duas proposições analisadas são verd
 
 ### O que é uma tautologia?
 Uma tautologia ocorre quando uma FBF resulta somente em verdades. As tautologias são de extrema importância, já que fornecem as bases para a construção de argumentos válidos, portanto, é relevante avaliar se uma FBF é uma tautologia. É possível visualizar uma tautologia ((a ∧ b) → a) através do exemplo:
-| a | b | a ∧ b | (a ∧ b) → a |
+| A | B | A ∧ B | (A ∧ B) → A |
 | - | - | ----- | ----------- |
 | V | V | V     | V           |
 | V | F | F     | V           |
