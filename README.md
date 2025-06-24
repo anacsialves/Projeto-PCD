@@ -1,5 +1,4 @@
- # Testando tautologias
-
+![Testando Tautologias! Prática em Ciência de Dados](https://github.com/user-attachments/assets/cde7591c-e2d8-4510-85ff-6ce42ebc2167)
 ### Ilum - escola de ciência - trabalho final de Práticas em Ciência de Dados
 #### Professores: Daniel Cassar, James Almeida e Leandro Lemos
 #### Integrantes: Aline Silva dos Santos, Ana Carolina Sayumi, Caio Cogo Beriam e Mariana Jann Luna
