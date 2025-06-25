@@ -80,4 +80,4 @@ Uma tautologia ocorre quando uma FBF resulta somente em verdades. As tautologias
 
 ### Referências
 
-Aulas de Lógica Computacional - conteúdo de lógica proposicional - professor Daniel Cassar
+CASSAR, Daniel R. Lógica Proposicional: LMA - 103 Lógica Computacional. 2025. Apresentação de PowerPoint.
